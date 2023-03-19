@@ -27,3 +27,7 @@ If having trouble connecting to the port and port not killed and wanted to open 
 
 
 ```kill -9 PID```
+
+Install [newspaper](https://github.com/codelucas/newspaper) library for python3:
+
+'''pip install newspaper3k'''
